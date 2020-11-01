@@ -1,0 +1,19 @@
+This is an example of how to format your email blast. This was written on {date} for the UWO Tea Club.
+
+You can fill in some more text here if you want to make a second paragraph. Even if the text goes on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on and on LIKE THIS, be sure not to insert a line break (i.e. press enter/return) unless you want to start a new paragraph.
+
+Here are some more examples for how to create the email template:
+
+Good Morning {club}!
+
+We love {club}!
+
+Please work with us.
+
+Please reply by {replyByDate}
+
+The event will take place on {eventDate}
+
+Thanks!
+
+UWO Tea Club

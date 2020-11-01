@@ -1,0 +1,4 @@
+{date} = "10/14/20"
+{club} = "Japanese Student Association","Chinese Student Association","Indian Student Association","Other Student Association"
+{replyByDate} = "December 31st, 2020"
+{eventDate} = "January 1st, 2021"
